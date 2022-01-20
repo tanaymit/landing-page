@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+.r0{
+    background-color: #1F2937;
+    color: white;
+
+}
+.r1 {
+    display: flex;
+}
