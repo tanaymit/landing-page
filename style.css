@@ -32,12 +32,15 @@ a {
 }
 .r2{
     margin-left: 100px;
+    float: left;
      
     
 }
 .r0 img{
     border: 2px solid blueviolet;
     margin-left: 100px;
+    background-color: #1F2937;
+    position: relative;
     /* float: inline-end;
     align-items: center; */
 }
