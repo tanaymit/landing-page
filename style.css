@@ -6,6 +6,7 @@ body {
 .r0{
     background-color: #1F2937;
     color: white;
+    
 
 }
 .r1 {
@@ -25,8 +26,18 @@ a {
 .l1 {
     margin-left: 1200px;
 }
-h2 {
+.awsm {
+    
+    font-size: 38px;
+}
+.r2{
     margin-left: 100px;
-    padding: 10px;
-    font-size: 32px;
+     
+    
+}
+.r0 img{
+    border: 2px solid blueviolet;
+    margin-left: 100px;
+    /* float: inline-end;
+    align-items: center; */
 }
